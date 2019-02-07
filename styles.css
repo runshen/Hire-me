@@ -1,0 +1,19 @@
+img{ 
+    width:1000px;
+}
+h1{font-family: 'Shadows Into Light', cursive;}
+h1{color:red;}
+h1{text-align:center;}
+h2{text-align:center;}
+h3{text-align:center;}
+h4{text-align:center;}
+h5{text-align:center;}
+h6{text-align:center;}
+li{text-align:center;}
+body{background-repeat:no-repeat;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGiJ2TrLv53IdEzDbe1Lt1Q1oYy9olhlOqbznCzlBEQ3ivYjxz3w");background-color: #cccccc;
+    background-size: cover;
+    }
+    li{color:white;}
+    h6{color:white;}
+    
